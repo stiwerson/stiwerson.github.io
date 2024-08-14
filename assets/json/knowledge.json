@@ -1,0 +1,164 @@
+[
+  {
+    "name": "HTML",
+    "image": "HTML.svg",
+    "desc": "O HyperText Markup Language (HTML) é uma linguagem de marcação utilizada para estruturar páginas da web. Enquanto HTML define a estrutura e o conteúdo básico de uma página, CSS é usado para estilizar e torná-la visualmente atraente, e JavaScript (JS) é empregado para adicionar interatividade e funcionalidades dinâmicas.",
+    "exp": "2021"
+  },
+  {
+    "name": "CSS",
+    "image": "CSS.svg",
+    "desc": "Cascading Style Sheets (CSS), é um mecanismo de estilização de páginas web. Aplicado em arquivos em HTML, fazendo com que seja responsável por toda a aparência visual dos websites.",
+    "exp": "2021"
+  },
+  {
+    "name": "Bootstrap",
+    "image": "Bootstrap.svg",
+    "desc": "Bootstrap é um framework de código aberto amplamente utilizado para desenvolver sites e aplicativos web responsivos. Ele fornece uma coleção de ferramentas e estilos CSS pré-projetados que facilitam a criação de interfaces de usuário modernas e compatíveis com dispositivos móveis, agilizando o processo de desenvolvimento.",
+    "exp": "2021"
+  },
+  {
+    "name": "Javascript",
+    "image": "Javascript.svg",
+    "desc": "Javascript é uma linguagem de programação frontend. Usado juntamente com HTML e CSS, é responsável em fazer com que o site performe ações, tais como envio de formulários e ações ao clicar em um botão.",
+    "exp": "2021"
+  },
+  {
+    "name": "JQuery",
+    "image": "JQuery.svg",
+    "desc": "jQuery é uma biblioteca JavaScript popular que simplifica a interação e manipulação de elementos HTML, o tratamento de eventos, animações e requisições AJAX em páginas web. É amplamente utilizado devido à sua facilidade de uso e capacidade de melhorar a experiência do usuário em sites e aplicativos web.",
+    "exp": "2021"
+  },
+  {
+    "name": "JSON",
+    "image": "JSON.svg",
+    "desc": "JSON, ou JavaScript Object Notation, é um formato de dados leve e fácil de ler, comumente usado para trocar informações entre um servidor e um cliente da web. Ele é baseado em pares de chave-valor e é frequentemente usado em APIs para transmitir dados estruturados de forma eficiente.",
+    "exp": "2021"
+  },
+  {
+    "name": "XML",
+    "image": "XML.svg",
+    "desc": "XML, ou Extensible Markup Language, é uma linguagem de marcação que define regras para a codificação de documentos de texto em um formato que é legível tanto para humanos quanto para máquinas. É usado para estruturar dados de forma hierárquica e é comum em muitas aplicações, especialmente na troca de informações entre sistemas e na configuração de dados.",
+    "exp": "2021"
+  },
+  {
+    "name": "PHP",
+    "image": "PHP.svg",
+    "desc": "PHP é uma linguagem de programação backend. E foi amplamente usada para criação de diversos websites, principalmente aos desenvolvidos com auxilio do Wordpress.",
+    "exp": "2021"
+  },
+  {
+    "name": "SQL",
+    "image": "SQL.svg",
+    "desc": "SQL (Structured Query Language) é uma linguagem de programação utilizada para gerenciar e manipular bancos de dados relacionais. Ela permite realizar diversas operações, como consultas para recuperar informações, inserções para adicionar novos dados, atualizações para modificar registros existentes e exclusões de dados.",
+    "exp": "2021"
+  },
+  {
+    "name": "MySQL",
+    "image": "MySQL.svg",
+    "desc": "MySQL é um sistema de gerenciamento de banco de dados SQL. Tipicamente usado com PHP e Apache Web Server na criação de websites.",
+    "exp": "2021"
+  },
+  {
+    "name": "NoSQL",
+    "image": "NoSQL.svg",
+    "desc": "NoSQL é uma forma moderna de organizar informações em um banco de dados. Ao contrário dos bancos de dados tradicionais, que têm uma estrutura rígida, o NoSQL é flexível, podendo lidar com diferentes tipos de dados sem a necessidade de definir uma estrutura específica. Isso é útil para lidar com grandes volumes de dados, como os encontrados em redes sociais ou aplicativos de comércio eletrônico.",
+    "exp": "2021"
+  },
+  {
+    "name": "MongoDB",
+    "image": "MongoDB.svg",
+    "desc": "MongoDB é uma plataforma de banco de dados NoSQL, que se destaca por sua estrutura orientada a documentos. Em contraste com bancos de dados relacionais, o MongoDB utiliza uma abordagem flexível baseada em documentos JSON, oferecendo alta escalabilidade e desempenho. Com MongoDB, é possível armazenar, recuperar e manipular dados de forma eficiente, adequando-se a uma variedade de casos de uso, desde aplicativos web até análise de big data.",
+    "exp": "2021"
+  },
+  {
+    "name": "Wordpress",
+    "image": "Wordpress.svg",
+    "desc": "Wordpress é um sistema de código aberto que auxilia na criação de páginas web na internet. Criado com PHP e com base de dados MySQL, ele tem a finalidade de criar páginas web, mais rápido e facil.",
+    "exp": "2021"
+  },
+  {
+    "name": "Elementor",
+    "image": "Elementor.svg",
+    "desc": "Elementor é um plugin de Wordpress. Sua funcionalidade é criar um gerador mais visual de páginas web para o Wordpress.",
+    "exp": "2021"
+  },
+  {
+    "name": "Woocommerce",
+    "image": "Woocommerce.svg",
+    "desc": "WooCommerce é uma extensão do WordPress que oferece uma ampla gama de recursos para gerenciar produtos, processar pagamentos, controlar estoques e muito mais, tornando-o uma escolha popular para empresas que desejam vender produtos e serviços online.",
+    "exp": "2021"
+  },
+  {
+    "name": "Git",
+    "image": "Git.svg",
+    "desc": "Git é um sistema de controle de versão altamente usado na criação de websites e softwares.",
+    "exp": "2021"
+  },
+  {
+    "name": "Github",
+    "image": "Github.svg",
+    "desc": "Github é um site de hospedagem de repositorios Git, que são responsaveis por fazer controle de versionamento de códigos.",
+    "exp": "2021"
+  },
+  {
+    "name": "Node.js",
+    "image": "Node.svg",
+    "desc": "Node é uma linguagem de programação backend. Frequentemente utilizado na criação de web aplicativos que são hospedados em plataformas cloud como AWS.",
+    "exp": "2021"
+  },
+  {
+    "name": "Typescript",
+    "image": "Typescript.svg",
+    "desc": "TypeScript é uma linguagem de programação que estende o JavaScript. Ela serve para ajudar os desenvolvedores a detectar erros mais cedo e facilitar a manutenção do código.",
+    "exp": "2021"
+  },
+  {
+    "name": "Linux",
+    "image": "Linux.svg",
+    "desc": "Linux é um sistema operacional de código aberto conhecido por sua estabilidade e segurança. Ele é amplamente utilizado em servidores, computadores pessoais e dispositivos embarcados, oferecendo uma alternativa flexível e econômica aos sistemas proprietários.",
+    "exp": "2021"
+  },
+  {
+    "name": "Angular",
+    "image": "Angular.svg",
+    "desc": "Angular é uma estrutura de desenvolvimento front-end mantida pelo Google, amplamente utilizada para construir aplicativos web robustos e interativos.",
+    "exp": "2021"
+  },
+  {
+    "name": "React",
+    "image": "React.svg",
+    "desc": "React Native é um framework de desenvolvimento de aplicativos móveis que permite criar aplicativos nativos para iOS e Android usando JavaScript e React. Isso permite que os desenvolvedores compartilhem uma única base de código entre as plataformas, acelerando o processo de desenvolvimento e reduzindo custos.",
+    "exp": "2021"
+  },
+  {
+    "name": "Python",
+    "image": "Python.svg",
+    "desc": "Python é uma linguagem de programação amplamente usada em diversas áreas, como desenvolvimento web, análise de dados e automação.",
+    "exp": "2021"
+  },
+  {
+    "name": "Java",
+    "image": "Java.svg",
+    "desc": "Java é uma linguagem de programação de propósito geral conhecida por sua portabilidade, segurança e ampla aplicação em desenvolvimento de software. É comumente utilizado em empresas para desenvolver aplicativos web, móveis, de desktop e de servidor.",
+    "exp": "2021"
+  },
+  {
+    "name": "SASS & SCSS",
+    "image": "SASS.svg",
+    "desc": "SASS e SCSS são uma linguagem de folha de estilo CSS (Cascading Style Sheets) que permite escrever estilos de forma mais eficiente e organizada. É amplamente utilizada por desenvolvedores front-end para simplificar a criação e manutenção de estilos em projetos web.",
+    "exp": "2021"
+  },
+  {
+    "name": "Unity",
+    "image": "Unity.svg",
+    "desc": "Unity é uma plataforma de desenvolvimento de jogos amplamente utilizada para criar jogos 2D e 3D. Com uma interface amigável e suporte para a linguagem C#, ela permite que desenvolvedores criem jogos para diversas plataformas, como PCs, consoles e dispositivos móveis. Unity é popular por suas ferramentas poderosas, extensa biblioteca de recursos e uma comunidade ativa que facilita o desenvolvimento e a colaboração.",
+    "exp": "2021"
+  },
+  {
+    "name": "Godot",
+    "image": "Godot.svg",
+    "desc": "Godot é uma ferramenta gratuita e de código aberto para criação de jogos 2D e 3D. Ela oferece uma interface intuitiva e um conjunto completo de ferramentas, facilitando o desenvolvimento de jogos para diversas plataformas. Com suporte para várias linguagens de programação, como GDScript e C#, a Godot é acessível tanto para iniciantes quanto para profissionais. É amplamente usada devido à sua flexibilidade, documentação extensa e comunidade ativa.",
+    "exp": "2023"
+  }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "logo": "Bryy Tech.svg",
+        "bg": "bryytech.webp",
+        "created": "2024",
+        "name": "Bryy Tech Site",
+        "category": "Website",
+        "desc": "Desenvolvido para a assistência técnica Bryy Tech Informática, o site é um website corporativo, mostrando seus serviços, planos de atendimento, endereço, meios de contato, blog e história da empresa."
+    },
+    {
+        "logo": "Linea Midia.svg",
+        "bg": "TurismoParanagua.webp",
+        "created": "2024",
+        "name": "Galeria de Turismo - Paranaguá",
+        "category": "Webapp",
+        "desc": "Criado para a prefeitura de Paranaguá por intermédio da Linea Midia, a 'Galeria de Turismo' foi criado para mostrar os pontos turisticos da cidade e sua localização, ela também contava com uma funcionalidade de tradução de texto para o Inglês e Espanhol ajudando na acessibilidade dos turistas no local."
+    },
+    {
+        "logo": "Linea Midia.svg",
+        "bg": "Questionario4Barras.webp",
+        "created": "2023",
+        "name": "Questionario Quatro Barras Joião",
+        "category": "Webapp",
+        "desc": "Criado para a prefeitura de Quatro Barras por intermédio da Linea Midia, o 'Questionário sobre o serviço Joião de Quatro barras', era utilizado nos terminais da cidade para avaliar o serviço. O Joião é um serviço de transporte publico gratuito do governo."
+    },
+    {
+        "logo": "Linea News.svg",
+        "bg": "Linea News 2023.webp",
+        "created": "2023",
+        "name": "Linea News Site",
+        "category": "Website",
+        "desc": "O site foi recriado em 2023 visando melhorar sua performace, visual, SEO, otimização e segurança. O conteúdo do website continuou, no caso sendo um portal de noticias rápidas e atuais."
+    },
+    {
+        "logo": "Linea Midia.svg",
+        "bg": "SistemaAvaliacao.webp",
+        "created": "2023",
+        "name": "Sistema de avaliação",
+        "category": "Webapp",
+        "desc": "O 'Sistema de Avaliação' foi criado para a Linea Midia. Sua funcionalidade é coletar o nível de satisfação que o cliente teve pelo serviço prestado em um estabelecimento. Ele era instalado em totens de touch-screen e solicitado por empresas para avaliar o serviço de seus funcionários."
+    },
+    {
+        "logo": "TLA.svg",
+        "bg": "TLA 2023.webp",
+        "created": "2023",
+        "name": "TLA - E-Commerce",
+        "category": "Website",
+        "desc": "TLA ou TLA Brasil, é um e-commerce(Loja virtual) que vende televisores com touch-screen e acessorios relacionados."
+    },
+    {
+        "logo": "Linea Midia.svg",
+        "bg": "Linea Midia 2022.webp",
+        "created": "2022",
+        "name": "Linea Midia Site",
+        "category": "Website",
+        "desc": "O site corporativo da Linea Midia mostra os serviços prestados pela empresa, seu cases de sucesso e meios de contatos para contratar seus serviços."
+    },
+    {
+        "logo": "Linea Midia.svg",
+        "bg": "GaleriaCampoLargo.webp",
+        "created": "2022",
+        "name": "Galeria Digital - Campo Largo",
+        "category": "Webapp",
+        "desc": "Criado para a prefeitura de Campo Largo por intermédio da Linea Midia, a galeria digital tem como proposito exibir fotos e descrição de todos os prefeitos eleitos, mostrar todos os pontos turísticos locais, informações econômicas, mapa e câmeras da cidade."
+    },
+    {
+        "logo": "Linea News.svg",
+        "bg": "Linea News 2021.webp",
+        "created": "2021",
+        "name": "Linea News Site",
+        "category": "Website",
+        "desc": "O site Linea News foi o primeiro site desenvolvido para a empresa Linea Midia. Este site foi recriado em 2022 e possuí um design diferente deste modelo."
+    }
+]

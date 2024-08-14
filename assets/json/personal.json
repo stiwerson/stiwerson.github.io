@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Smash N Cash",
+        "logo": "Smash N Cash.webp",
+        "bg": "Smash N Cash.webp",
+        "url": "https://papagaio-alcoolatra.itch.io/smash-n-cash",
+        "desc": "Smash N Cash foi o projeto acadêmico final que eu havia criado para a PUCPR em 2023. O projeto consiste em um jogo de 1 contra 1, onde os participantes devem competir em consertar o seu carro e quebrar do oponente com auxilio de armas e itens."
+    },
+    {
+        "name": "Chemistry Crawler",
+        "logo": "Chemistry Crawler.webp",
+        "bg": "Chemistry Crawler.webp",
+        "iframe": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/6331236?color=ffffff\" allowfullscreen=\"\" width=\"640\" height=\"540\"><a href=\"https://7eam.itch.io/chemistry-crawler\">Play Chemistry Crawler on itch.io</a></iframe>",
+        "url": "https://7eam.itch.io/chemistry-crawler",
+        "desc": "Chemistry Crawler é um jogo educativo criado em 2022 para a disciplina \"Experiência Criativa: Jogos Sérios\" na PUCPR. O projeto tinha como objetivo encontrar um cliente real e desenvolver um jogo para ele. Assim, foi criado para uma professora de química que desejava um jogo divertido para ajudar os alunos a memorizar a tabela periódica."
+    },
+    {
+        "name": "Apocalyptic times",
+        "logo": "Apocalyptic times.webp",
+        "bg": "Apocalyptic times.webp",
+        "iframe": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/4247109?color=ffffff\" allowfullscreen=\"\" width=\"1000\" height=\"700\"><a href=\"https://7eam.itch.io/apocalyptic-times\">Play Apocalyptic Times on itch.io</a></iframe>",
+        "url": "https://7eam.itch.io/apocalyptic-times",
+        "desc": "Apocalyptic Times é um jogo criado para o evento \"GJL Game Parade Summer 2021\". O jogo é uma sátira onde você deve tomar decisões sobre eventos que afetam o mundo, possuindo diversos finais que aumentam a rejogabilidade."
+    },
+    {
+        "name": "Pluzzle",
+        "logo": "Pluzzle.webp",
+        "bg": "Pluzzle.webp",
+        "iframe": "<iframe frameborder=\"0\" src=\"https://itch.io/embed-upload/4044576?color=ffffff\" allowfullscreen=\"\" width=\"1000\" height=\"700\"><a href=\"https://gabrieldias0223.itch.io/pluzzle\">Play P+uzzle on itch.io</a></iframe>",
+        "url": "https://gabrieldias0223.itch.io/pluzzle",
+        "desc": "Pluzzle é um jogo educativo com elementos de puzzle (quebra-cabeça). O jogo envolve um personagem que empurra números e sinais para formar equações corretas. Foi altamente inspirado no jogo \"Baba is You\"."
+    },
+    {
+        "name": "Paper Theater",
+        "logo": "Paper Theater.webp",
+        "bg": "Paper Theater.webp",
+        "url": "https://7eam.itch.io/paper-theater",
+        "desc": "Paper Theater é um projeto acadêmico de 2021 feito para a PUCPR. O jogo consiste em uma personagem de um circo circense que deve realizar truques perigosos para entreter o público. O jogo foi inspirado nos jogos \"Inside\" e \"BattleBlock Theater\"."
+    },
+    {
+        "name": "Cownting Stars",
+        "logo": "Cownting Stars.webp",
+        "bg": "Cownting Stars.webp",
+        "url": "",
+        "iframe": "",
+        "desc": "Cownting Stars é um jogo que foi criado em 2 semanas durante a gamejam 'Opera GX offline game' em 2022. O jogo consiste em que o jogador deve voar sobre uma fazenda com um OVNI e abduzir os animais enquanto desvia de obstruções."
+    },
+    {
+        "name": "Eclipse 97",
+        "logo": "Eclipse 97.webp",
+        "bg": "Eclipse 97.webp",
+        "url": "https://7eam.itch.io/eclipse-97",
+        "desc": "Eclipse 97 é um projeto acadêmico de 2021 criado para a PUCPR. O jogo retrata um astronauta que deve sobreviver no espaço, onde a estação espacial foi atacada por aliens. O jogo não foi finalizado devido a problemas no escopo e tempo. Foi inspirado no filme \"Perdido em Marte\" e no jogo \"Dead Space\"."
+    }
+]
