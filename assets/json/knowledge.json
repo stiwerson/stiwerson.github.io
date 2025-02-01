@@ -48,6 +48,12 @@
     "exp": "2021"
   },
   {
+    "name": "Figma",
+    "image": "Figma.svg",
+    "desc": "O Figma é uma ferramenta online voltada para a criação de protótipos visuais interativos, amplamente utilizada no design de interfaces para sites, lojas virtuais (e-commerces), web aplicativos, softwares e apps. Sua principal vantagem está na colaboração em tempo real, permitindo que equipes façam ajustes instantaneamente e apresentem protótipos de forma dinâmica durante reuniões com clientes.",
+    "exp": "2022"
+  },
+  {
     "name": "SQL",
     "image": "SQL.svg",
     "desc": "SQL (Structured Query Language) é uma linguagem de programação utilizada para gerenciar e manipular bancos de dados relacionais. Ela permite realizar diversas operações, como consultas para recuperar informações, inserções para adicionar novos dados, atualizações para modificar registros existentes e exclusões de dados.",
@@ -75,6 +81,12 @@
     "name": "Wordpress",
     "image": "Wordpress.svg",
     "desc": "Wordpress é um sistema de código aberto que auxilia na criação de páginas web na internet. Criado com PHP e com base de dados MySQL, ele tem a finalidade de criar páginas web, mais rápido e facil.",
+    "exp": "2021"
+  },
+  {
+    "name": "Wix",
+    "image": "Wix.svg",
+    "desc": "O Wix é uma plataforma de criação de sites que permite desenvolver páginas profissionais sem a necessidade de programação. Com um editor intuitivo e diversas opções de personalização, é ideal para pequenas empresas, portfólios e lojas virtuais. Além disso, oferece hospedagem integrada e recursos para otimização SEO, facilitando a visibilidade nos buscadores.",
     "exp": "2021"
   },
   {

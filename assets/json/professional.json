@@ -1,5 +1,21 @@
 [
     {
+        "logo": "autoeletricos.png",
+        "bg": "Autoeletricos.webp",
+        "created": "2024",
+        "name": "Autoeletricos Site",
+        "category": "Website",
+        "desc": "Desenvolvido para a Autoelétricos Centro Automotivo, este site foi projetado com uma abordagem simples e funcional, alinhada às necessidades do cliente. Utilizando a plataforma Wix, conforme solicitado, o foco foi criar uma experiência objetiva, destacando os principais serviços oferecidos e facilitando o contato direto com os clientes.\nO design minimalista prioriza a clareza e a navegação intuitiva, garantindo que as informações essenciais sejam acessadas rapidamente. Além disso, a solução foi planejada para atender a um orçamento otimizado, sem comprometer a qualidade e a eficiência do site."
+    },
+    {
+        "logo": "jsonic.svg",
+        "bg": "Jsonic.webp",
+        "created": "2024",
+        "name": "JSONIC Site",
+        "category": "Website",
+        "desc": "O site da JSONIC Tecnologias foi desenvolvido com tecnologias de ponta, amplamente utilizadas em web aplicativos de médio e grande porte. O objetivo foi criar uma experiência de navegação ultrarrápida, com transições instantâneas entre páginas, garantindo alto desempenho e fluidez.\nAlém da performance, o design foi cuidadosamente otimizado para a melhor usabilidade. O tema escuro foi escolhido estrategicamente, não apenas por sua estética moderna, mas também por contribuir para a economia de bateria em dispositivos móveis. Cada detalhe foi pensado para oferecer uma experiência sofisticada, eficiente e inovadora."
+    },
+    {
         "logo": "Bryy Tech.svg",
         "bg": "bryytech.webp",
         "created": "2024",
