@@ -1,5 +1,29 @@
 [
     {
+        "logo": "BRALARMSEG.webp",
+        "bg": "Bralarmseg.png",
+        "created": "2025",
+        "name": "Bralarmseg Site",
+        "category": "Website",
+        "desc": "Projeto de revitalização de um site corporativo, com foco em corrigir problemas de indexação, design e estrutura de código. A solução foi otimizada para um orçamento reduzido, visando preparar o site para campanhas de marketing."
+    },
+    {
+        "logo": "AFSolucoes.png",
+        "bg": "AFSE.webp",
+        "created": "2025",
+        "name": "AF Soluções Elétricas Site",
+        "category": "Website",
+        "desc": "Desenvolvido para a AF Soluções Elétricas, o site institucional foi criado para apresentar os serviços e portfólio da empresa de forma clara e profissional."
+    },
+    {
+        "logo": "hiperfarma weissopolis.png",
+        "bg": "Hiperfarma Weissopolis.webp",
+        "created": "2024",
+        "name": "Hiperfarma Weissópolis Landing Page",
+        "category": "Landing Page",
+        "desc": "Desenvolvida para a Hiperfarma de Weissópolis (Pinhais-PR), a landing page apresenta um design minimalista com foco total em uma campanha de marketing."
+    },
+    {
         "logo": "autoeletricos.png",
         "bg": "Autoeletricos.webp",
         "created": "2024",
@@ -85,6 +109,6 @@
         "created": "2021",
         "name": "Linea News Site",
         "category": "Website",
-        "desc": "O site Linea News foi o primeiro site desenvolvido para a empresa Linea Midia. Este site foi recriado em 2022 e possuí um design diferente deste modelo."
+        "desc": "O site Linea News foi o primeiro site desenvolvido para a empresa Linea Midia. Este site foi recriado em 2023 e possuí um design diferente deste modelo."
     }
 ]
