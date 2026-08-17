@@ -1,5 +1,13 @@
 [
     {
+        "logo": "JMLOG.webp",
+        "bg": "JMLOG.png",
+        "created": "2025",
+        "name": "JM Log Site",
+        "category": "Website",
+        "desc": "O site corporativo da JM Log apresenta a empresa, seus serviços e soluções em logística e transporte. O projeto conta com diversas páginas institucionais, formulários de contato, botão de WhatsApp, detalhamento da frota e outras funcionalidades que facilitam a comunicação com clientes e parceiros e fortalecem a presença digital da empresa."
+    },
+    {
         "logo": "BRALARMSEG.webp",
         "bg": "Bralarmseg.png",
         "created": "2025",
